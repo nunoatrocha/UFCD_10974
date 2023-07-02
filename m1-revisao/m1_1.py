@@ -9,4 +9,4 @@ elif n1 == n2 or n1 == n3 or n2 == n3:
 else:
     print('Todos os números são diferentes')
 
-    print('Nuno Rocha')
+print('Nuno Rocha')
